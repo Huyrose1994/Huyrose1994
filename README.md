@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huyrose1994
-- 👀 I’m interested in Computational Finance
-- 🌱 I’m currently learning Python, GitHub, Machine Learning, Macroeconomic Forecasting, Quantitative Finance, Backtesting
+- 👀 I’m interested in Machine Learning Algorithms and Machine Learning Dev/Ops
+- 🌱 I’m currently learning Python, GitHub, Machine Learning, Deep Learning/Neural Networks, LLMs, Macroeconomic Forecasting, Quantitative Finance, Backtesting
 - 💞️ I’m looking to collaborate on Investment projects
 - 📫 How to reach me huynguyen2912@gmail.com
 
